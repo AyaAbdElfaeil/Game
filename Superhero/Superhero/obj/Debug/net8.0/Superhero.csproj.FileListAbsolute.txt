@@ -1,0 +1,14 @@
+D:\Visual\Superhero\Superhero\bin\Debug\net8.0\Superhero.exe
+D:\Visual\Superhero\Superhero\bin\Debug\net8.0\Superhero.deps.json
+D:\Visual\Superhero\Superhero\bin\Debug\net8.0\Superhero.runtimeconfig.json
+D:\Visual\Superhero\Superhero\bin\Debug\net8.0\Superhero.dll
+D:\Visual\Superhero\Superhero\bin\Debug\net8.0\Superhero.pdb
+D:\Visual\Superhero\Superhero\obj\Debug\net8.0\Superhero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Superhero\Superhero\obj\Debug\net8.0\Superhero.AssemblyInfoInputs.cache
+D:\Visual\Superhero\Superhero\obj\Debug\net8.0\Superhero.AssemblyInfo.cs
+D:\Visual\Superhero\Superhero\obj\Debug\net8.0\Superhero.csproj.CoreCompileInputs.cache
+D:\Visual\Superhero\Superhero\obj\Debug\net8.0\Superhero.dll
+D:\Visual\Superhero\Superhero\obj\Debug\net8.0\refint\Superhero.dll
+D:\Visual\Superhero\Superhero\obj\Debug\net8.0\Superhero.pdb
+D:\Visual\Superhero\Superhero\obj\Debug\net8.0\Superhero.genruntimeconfig.cache
+D:\Visual\Superhero\Superhero\obj\Debug\net8.0\ref\Superhero.dll
